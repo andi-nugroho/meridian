@@ -1,0 +1,9 @@
+{
+  "network": "holesky",
+  "chainId": 17000,
+  "contractAddress": "0xbD19c5D932AB9b15AbF7Ce1C6D352909213dc8da",
+  "wormholeBridge": "0x85120384dab9a466a22bebce5ad8c754a897d343",
+  "solanaEmitterAddress": "0x2952a9693e82b80b49372ef94efdec6cc0ebd50ed23d2c01b3e3a365aedf375b",
+  "deploymentTime": "2025-03-11T20:46:05.994Z",
+  "deployer": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+}

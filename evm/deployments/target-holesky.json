@@ -1,0 +1,8 @@
+{
+  "network": "holesky",
+  "chainId": 17000,
+  "contractAddress": "0xF3D2A93eb650c3E55638ba31da3CC249ef1a6956",
+  "deploymentTime": "2025-03-11T21:06:21.368Z",
+  "initialMessage": "Initialized by Meridian",
+  "deployer": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+}

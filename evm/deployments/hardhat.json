@@ -1,0 +1,9 @@
+{
+  "network": "hardhat",
+  "chainId": 1337,
+  "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "wormholeBridge": "0xC89Ce4735882C9F0f0FE26686c53074E09B0D550",
+  "solanaEmitterAddress": "0x2952a9693e82b80b49372ef94efdec6cc0ebd50ed23d2c01b3e3a365aedf375b",
+  "deploymentTime": "2025-03-11T20:44:48.125Z",
+  "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+}
