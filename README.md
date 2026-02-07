@@ -61,14 +61,14 @@ Meridian consists of three core components:
 - Node.js v16+ and Yarn
 - Rust and Cargo
 - Solana CLI tools
-- Anchor Framework 
+- Anchor Framework
 - Access to Solana Devnet and Ethereum Holesky
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/akshatcoder-hash/meridian.git
+git clone https://github.com/andi-nugroho/meridian.git
 cd meridian
 
 # Install dependencies
